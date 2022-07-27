@@ -13,6 +13,6 @@ When you're done with your helm chart, run the validator.sh script on it. Here a
 
 Our test instance will generate new random values, so you can't hard-code anything.
 
-Once you're done, send a message containing the public repository URL of the repo you created, and our DevSecOps team will check it over and contact you for an interview.
+Once you're done, send a message to your Mogo HR contact containing the public repository URL of the repo you created, and our DevSecOps team will check it over and contact you for an interview.
 
 Bonus points for putting in something that will make us laugh.
