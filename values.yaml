@@ -1,0 +1,4 @@
+Name: interview-template
+Domain: localdomain
+Port: 9999
+HealthCheckUrl: /healthcheck

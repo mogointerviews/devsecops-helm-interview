@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Service
+metadata:
+  labels:
+    app: {{ .Values.Name }}
+    app.kubernetes.io/instance: {{ .Values.Name }}
+    app.kubernetes.io/name: {{ .Values.Name }}
+    app.kubernetes.io/version: {{ .Chart.Version }}
+  name: {{ .Values.Name }}
+spec:
+  ## YOUR CONFIGURATION HERE ##
